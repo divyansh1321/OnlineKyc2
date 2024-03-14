@@ -2,7 +2,8 @@
 
 Welcome to my project! Here's a video demonstration:
 
-[Click here to watch the video](https://youtu.be/UC2KlYrdUPs)
+[![Video Demo](https://img.youtube.com/vi/UC2KlYrdUPs/0.jpg)](https://www.youtube.com/watch?v=UC2KlYrdUPs)
+
 # My Project
 
 Welcome to my project! Here`s activity diagram:
