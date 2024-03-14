@@ -3,6 +3,12 @@
 Welcome to my project! Here's a video demonstration:
 
 [Click here to watch the video](https://youtu.be/UC2KlYrdUPs)
+# My Project
+
+Welcome to my project! Here`s activity diagram:
+
+![KYC Screenshot](https://github.com/divyansh1321/OnlineKyc2/raw/main/KYC.png)
+
 
 
 # Getting Started with Create React App
