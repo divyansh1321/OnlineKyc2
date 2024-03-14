@@ -2,7 +2,8 @@
 
 Welcome to my project! Here's a video demonstration:
 
-<iframe width="560" height="315" src="https://github.com/divyansh1321/OnlineKyc2/blob/main/onlinevdokyc.mp4" frameborder="0" allowfullscreen></iframe>
+[Click here to watch the video](https://youtu.be/UC2KlYrdUPs)
+
 
 # Getting Started with Create React App
 
