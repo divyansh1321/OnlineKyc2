@@ -1,6 +1,6 @@
 ## Demo Video 📹
 
-[![Demo Video](https://i.vimeocdn.com/video/923344208.jpg)](https://vimeo.com/923344208)
+[![Demo Video](watch video)](https://vimeo.com/923344208)
 
 
 
