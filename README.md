@@ -2,7 +2,7 @@
 
 Welcome to my project! Here's a video demonstration:
 
-https://vimeo.com/923344208
+https://github.com/divyansh1321/OnlineKyc2
 
 
 # My Project
