@@ -2,7 +2,7 @@
 
 Welcome to my project! Here's a video demonstration:
 
-[Watch Video](https://player.vimeo.com/video/923344208?h=3b48dc61de)
+https://vimeo.com/923344208
 
 
 # My Project
