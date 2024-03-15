@@ -1,6 +1,10 @@
 ## Demo Video 📹
 
-[![Demo Video](watch video)](https://vimeo.com/923344208)
+
+https://github.com/divyansh1321/OnlineKyc2/assets/104226607/ea0389cd-a789-4e5b-bda9-bd63b503ca23
+
+
+
 
 
 
